@@ -11,7 +11,8 @@
 }
 
 .education {
-    background-image: url("../assets/img/study.png");
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/c/c6/Information_Technology_Center_House_3_during_the_river_festival_2009.jpg");
+    /* For copyright information, see end of portfolio.html */
     background-size: cover;
     background-color: rgb(204, 204, 204);
     background-blend-mode: overlay;
