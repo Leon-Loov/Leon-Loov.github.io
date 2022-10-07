@@ -1,36 +1,50 @@
 .centerIcon {
-    margin-top: -10px;
+  margin-top: -10px;
 }
 
 .findMe {
-    font-size: x-large;
+  font-size: x-large;
 }
 
 .grayColor {
-    color: #d3d3d3 !important;
+  color: #d3d3d3 !important;
+}
+
+.blueColor {
+  background-color: #89CFF0 !important;
+}
+
+.imageSize {
+  width: 600px;
+  height: 300px;
+}
+
+/* Fixes a wierd thing with images */
+.g-0, .gx-0 {
+  --bs-gutter-x: 1.5rem;
 }
 
 .education {
-    background-image: url("https://upload.wikimedia.org/wikipedia/commons/c/c6/Information_Technology_Center_House_3_during_the_river_festival_2009.jpg");
-    /* For copyright information, see end of portfolio.html */
-    background-size: cover;
-    background-color: rgb(204, 204, 204);
-    background-blend-mode: overlay;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/c/c6/Information_Technology_Center_House_3_during_the_river_festival_2009.jpg");
+  /* For copyright information, see end of portfolio.html */
+  background-size: cover;
+  background-color: rgb(204, 204, 204);
+  background-blend-mode: overlay;
 }
 
 .spaceTop {
-    padding-top: 50px;
+  padding-top: 50px;
 }
 
 .linkOnBlue {
-    color: rgb(34, 34, 34);
-    text-decoration: underline;
+  color: rgb(34, 34, 34);
+  text-decoration: underline;
 }
 
 .linkOnBlue:hover {
-    color: rgb(68, 68, 68);
+  color: rgb(68, 68, 68);
 }
 
 .textLarge {
-    font-size: large;
+  font-size: large;
 }
