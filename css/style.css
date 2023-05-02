@@ -19,7 +19,7 @@
   height: 300px;
 }
 
-/* Fixes a wierd thing with images */
+/* Fixes a weird thing with images */
 .g-0, .gx-0 {
   --bs-gutter-x: 1.5rem;
 }
